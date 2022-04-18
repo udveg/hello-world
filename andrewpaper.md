@@ -58,7 +58,19 @@
 
 ### 1. Introduction 
 <br>
-<p>Reinforcement learning(RL) is a well-known method for making consecutive decisions in the face of uncertainty. The best example of Reinforcement learning is Cyber Security; all machine learning models work with data, and the amount of data collected by various software and hardware components all come into play. Big data combined with machine learning software allows businesses to detect and respond to intrusions in real time. In this paper we will further discuss about how Big data is used in Reinforcement Learning to enhance data security. </p>
+<p>Reinforcement learning(RL) is a well-known method for making consecutive decisions in the face of uncertainty. The best example of Reinforcement learning is Cyber Security; all machine learning models work with data, and the amount of data collected by various software and hardware components all come into play. Big data combined with machine learning software allows businesses to detect and respond to intrusions in real time. In this paper we will further discuss about how Big data is used in Reinforcement Learning to enhance data security. In this paper, we  </p>
 <br>
 
-#### 1.1 Data Security  
+#### 1.1 Data Security 
+
+<br>
+
+<p>In recent decades, Data Security has been regarded as an important subject; with the vast volume of data traveled, there is a risk of data misuse and data breaching, making Data Security essential. This raised the demand for data security, allowing numerous approaches to provide data security, including Reinforcement Learning, a prominent method for improving data security. However, Reinforcement learning </p>
+
+<br>
+
+#### 1.2 Importance of Data Security
+
+<br>
+
+<p></p>
