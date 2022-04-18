@@ -92,4 +92,4 @@
 
 <br>
 
-<p></p>
+<p>Big Data analytics take corperate defense and business protection to next level by encorparating machine learning models, statics, predective models and computive systems which helps in identifying potential threats and improve proactive threat detection and response. Big data helps discovering the attack patterns and  </p>
