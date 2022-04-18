@@ -92,4 +92,8 @@
 
 <br>
 
-<p>Big Data analytics take corperate defense and business protection to next level by encorparating machine learning models, statics, predective models and computive systems which helps in identifying potential threats and improve proactive threat detection and response. Big data helps discovering the attack patterns and  </p>
+<p>Big Data analytics elevates corporate security and company protection by using machine learning models, statics, predictive models, and computational systems that aid in identifying possible risks and improving proactive threat detection and response. By evaluating data from events preceding the attack, big data aids in the discovery of attack patterns and the discovery of relevant insights that will strengthen the cyber security system. However, its actual strength stems from its use of machine learning and artificial intelligence to detect irregularities instantaneously and automatically generate new security models based on continually changing attack behavior. Machine Learning models assist in fast responding to an attack by automatically adjusting security settings based on the kind of assault learnt from prior experience. Big Data analytics plays an important part here; with the increasing number of cyber threats, it is critical to identify the danger, which Big Data analytics performs with simplicity. For example, a company which has never experienced any cyber attack can still use the Big Data analytics to ensure the safety based on the history of attacks and insights.   </p>
+
+<br>
+
+### 2. Role of Big Data in Cybersecurity
