@@ -97,3 +97,30 @@
 <br>
 
 ### 2. Role of Big Data in Cybersecurity
+<br>
+<p> As we discussed earlier about the Big Data Analytics in cyber defense, lets get a better understanding of how Big Data Analytics implement different models and techniques which aid Data Security. </p>
+
+#### 2.1 Predective Models and Big Data Analytics 
+
+<br>
+
+<p> We all understand the value of predictive models; in the case of cyber defense, the model attempts to identify the threat ahead of time so that countermeasures can be taken before the actual attack happens. Predictive models and Big Data analytics are not new; they have been used in Fraud Detection and Intrusion Detection for a long time. Traditionally, they were only used on structured data, and data usage was limited; however, with advances in machine learning, predictive models can now deploy large amounts of data and analyze them in real time. Let's have a look at some of the benefits of Big Data Analytics in the context of cybersecurity: <br> </p> 
+
+* It can store a vast quantity of data without any relational database management limits, and these can be used in real-time machine learning models rather than keeping them on an external disk, which takes a long time and requires a lot of space. 
+* The amount of processing involved for decision making is not limited since they are expected to be intrusive the overhead time is minimized.
+* Traditional strategies focused on high TPS and short response time, which compelled models to deploy on a regular basis, delaying detection; however, with the help of Big Data tools, we were able to quickly overcome these issues.
+
+<br>
+
+#### 2.2 Automation and Cyber Resilience 
+
+<br>
+
+<p>Big Data allows to effectively improve the cyber resilience of a mission or service. Cyber resilience is one of the most significant factors; it simply allows firms to continue delivering the intended outcome despite any cyber attack. After the data is received, the system model must analyze the results, look for trends, determine the type of attack, and make a judgment. To make these kinds of decisions, the model must be trained about its decisions and responses through picking and taking responses, monitoring the impacts, and learning from these observations to improve performance over time.  </p>
+
+<br>
+
+<p align="center">
+        <img width="328" alt="Screen Shot 2022-04-18 at 5 23 33 PM" src="https://user-images.githubusercontent.com/89949851/163880304-8076416f-9ddb-46d0-95c1-7ecdce7eb493.png"> 
+</p>
+
