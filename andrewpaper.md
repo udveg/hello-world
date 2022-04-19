@@ -25,8 +25,7 @@
 
     2.1 Predective Models
     2.2 Automation and Monitoring
-    2.3 Real-Time Intrusion Detection 
-    2.4 Intilligent Risk Management 
+    
 <br>        
 3.Intrusion Detection System
 
@@ -116,11 +115,13 @@
 
 <br>
 
-<p>Big Data allows to effectively improve the cyber resilience of a mission or service. Cyber resilience is one of the most significant factors; it simply allows firms to continue delivering the intended outcome despite any cyber attack. After the data is received, the system model must analyze the results, look for trends, determine the type of attack, and make a judgment. To make these kinds of decisions, the model must be trained about its decisions and responses through picking and taking responses, monitoring the impacts, and learning from these observations to improve performance over time.  </p>
+<p>Big Data allows to effectively improve the cyber resilience of a mission or service. Cyber resilience is one of the most significant factors; it simply allows firms to continue delivering the intended outcome despite any cyber attack. Within a automated model after the data is received, the system model must analyze the results, look for trends, determine the type of attack, and make a judgment. To make these kinds of decisions, the model must be trained about its decisions and responses through picking and taking responses, monitoring the impacts, and learning from these observations to improve performance over time.  </p>
 
 <br>
 
 <p align="center">
         <img width="328" alt="Screen Shot 2022-04-18 at 5 23 33 PM" src="https://user-images.githubusercontent.com/89949851/163880304-8076416f-9ddb-46d0-95c1-7ecdce7eb493.png"> 
 </p>
+
+*image caption*
 
