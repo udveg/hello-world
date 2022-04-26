@@ -30,10 +30,7 @@
 3.Intrusion Detection System
 
     3.1 Network Intrusion Detection System (NIDS)
-    3.2 Host Intrusion Detection System (HIDS)
-    3.3 Protocol-based Intrusion Detection System (PIDS)
-    3.4 Application Protocol-based Intrusion Detection System (APIDS)
-    3.5 Hybrid Intrusion Detection System 
+    3.2 Big Data Architecture for Large Scale Security 
 
 <br>
 4. Big Data and Its Applications in Cyber Defense using Reinforcement learning 
@@ -140,3 +137,15 @@
 <br>
 
 <p>The process starts with data sniffing where network traffic packets is collected, this is the part where big data plays an crucial role. Data usually contains some amount of discrepancies, Big data allows to collect all the information from networks, sensors and allows to send the information for data preprocessing where quality of data is controlled, data pre processing includes model training, the core of NIDS is reinforcement learning based anomaly detection enigine. Now big data and reinforcement learning wroks together, the model is designed in such a way that it learns automatically whenever new data is collected from network, the models learning depends on the amount of data being generated from network. As the amount of data increases the model achieves self-updating where model can self-learn the behavior of traffic.    </p>
+
+<br>
+
+#### 3.2 Big Data Architecture for Large Scale Security Monitoring
+
+<br>
+
+<p align="center">
+<img width="507" alt="Screen Shot 2022-04-25 at 2 49 42 PM" src="https://user-images.githubusercontent.com/89949851/165154524-aa37896e-d26f-4740-bb00-61b57f0211a3.png">
+</p>
+
+##### This is the global architecture for security monitoring system, here we can 
