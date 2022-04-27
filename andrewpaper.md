@@ -148,4 +148,8 @@
 <img width="507" alt="Screen Shot 2022-04-25 at 2 49 42 PM" src="https://user-images.githubusercontent.com/89949851/165154524-aa37896e-d26f-4740-bb00-61b57f0211a3.png">
 </p>
 
-##### This is the global architecture for security monitoring system, here we can 
+##### This is the global architecture for security monitoring system, here we can observe the role of Big Data and ML together, the data is constantly being uploaded into the database and then the data is further analyzed where insights are extracted and used for intrusion detection. 
+
+<br>
+
+
