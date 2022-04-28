@@ -27,21 +27,18 @@
     2.2 Automation and Monitoring
     
 <br>        
-3.Intrusion Detection System
+3. Applying Big Data and Reinforcement Learning together
 
     3.1 Network Intrusion Detection System (NIDS)
-    3.2 Big Data Architecture for Large Scale Security 
+    3.2 Big Data Architecture for Large Scale Security
 
 <br>
-4. Big Data and Its Applications in Cyber Defense using Reinforcement learning 
-
-    4.1 RL Framework and Algorithms
-    4.2 RL methods incorporating big data analytics
-    4.3 DRL-based Intrusion Detection Systems
-    4.4 Types of Cyber Attacks
+4. Conclusion 
 
 <br>
-5. Conclusion
+
+<br>
+5. Sources
 
 
 <br>
@@ -53,7 +50,7 @@
 
 ### 1. Introduction 
 <br>
-<p>Reinforcement learning(RL) is a well-known method for making consecutive decisions in the face of uncertainty. The best example of Reinforcement learning is Cyber Security; all machine learning models work with data, and the amount of data collected by various software and hardware components all come into play. Big data combined with machine learning software allows businesses to detect and respond to intrusions in real time. In this paper we will further discuss about how Big data is used in Reinforcement Learning to enhance data security. Furthermore, we will discuss about how big data aids in Data Security and how different intrusion detection system work on the basis of Reinforcemrent Learning and Big Data. We will be looking at the Intrusion Detection System(IDS) particularly using statistical anomaly-based detection technique as big data plays a huge role in this technique. In section three we will look at some of the Intrusion detection systems which uses deep reinforcement learning method.  </p>
+<p>Reinforcement learning(RL) is a well-known method for making consecutive decisions in the face of uncertainty. The best example of Reinforcement learning is Cyber Security; all machine learning models work with data, and the amount of data collected by various software and hardware components all come into play. Big data combined with machine learning software allows businesses to detect and respond to intrusions in real time. In this paper we will further discuss about how Big data is used in Reinforcement Learning to enhance data security. Furthermore, we will discuss about how big data aids in Data Security and how different intrusion detection system work on the basis of Reinforcemrent Learning and Big Data. We will be looking at the Intrusion Detection System(IDS) particularly using statistical anomaly-based detection technique as big data plays a huge role in this technique. In section three we will look at some of the Intrusion detection systems which uses deep reinforcement learning method. The RL models for intrusion detection presented here show many advantages over other ML models.   </p>
 <br>
 
 #### 1.1 Data Security 
@@ -124,9 +121,15 @@
 
 <br>
 
-### 3.Intrusion Detection System
+### 3.Applying Big Data and Reinforcement Learning together
+<br>
+
+<p>Now as we have a comprehensive idea about how Big data plays a crucial role in Cybersecurity lets look at the advantages of RL over other models in Cybersecurity. Typically a supervised machine learning model applies a generic learning method, where the parameters are tuned to get an optimal result, this whole learning process revolves around labeled dataset, whereas RL works based on two components: an agent and environment. The agent observes the state of environment, as the environment encounters a situation the agent performs an action based on which a new state and a reward is generated, the purpose is to optimize maximum number of rewards. In RL there is no stored dataset of features with their associated labels, instead the framework learns through an intermediate function, and learning is not based on instantaneous information about best actions (feature samples and labels in a training dataset) but on a series of indications (rewards) on the value of intermediate actions with the ultimate goal of maximizing the total sum of rewards. The working of RL basically depends on the data every time data is used the model learns better, Moreover this whole process can be implemented in real time which makes RL an optimistic model for Cybersecurity.  </p>
 
 <br>
+
+#### 3.1  Intrusion Detection System 
+
 
 <p>Intrusion detection systems (IDS) is basically a technique where the netwok node and network is constantly tracked to flag any intrusions. IDS basically uses anomaly-based technique or signature-based technique. As I mentioned earlier Big data plays a huge role in signature-based technique."A user typically creates between 3 - 35 Megabytes of data in eight hours and it can take several hours to evaluate a single hour's worth of data," according to a research conducted by Frank for Intrusion Detection in 1994. Filtering, clustering, and feature selection on the data are also vital if real-time detection is sought, according to the researchers, which can boost detection accuracy. Big Data difficulties in intrusion detection existed long before the phrase "Big Data" was coined, as this case shows. Big Data approaches can help Intrusion Detection overcome the obstacles and costs that Big Data brings. </p>
 
@@ -148,8 +151,22 @@
 <img width="507" alt="Screen Shot 2022-04-25 at 2 49 42 PM" src="https://user-images.githubusercontent.com/89949851/165154524-aa37896e-d26f-4740-bb00-61b57f0211a3.png">
 </p>
 
-##### This is the global architecture for security monitoring system, here we can observe the role of Big Data and ML together, the data is constantly being uploaded into the database and then the data is further analyzed where insights are extracted and used for intrusion detection. 
+##### This is the global architecture for security monitoring system, here we can observe the role of Big Data and ML together, the data is constantly being uploaded into the database and then the data is further analyzed where insights are extracted and used for intrusion detection.
 
 <br>
 
+Intrusion detection systems may be upgraded with real-time data analytics, which will aid in the prevention of harmful acts on the systems. Businesses may now review prior data and real-time data to understand the behavior of what is typical data and avoid cyber assaults by merging BigData with machine learning. Many large companies are enhancing data security and this infrastructure allows a more subtle approach considered to other traditional methods. Machine Learning along with Big Data assured businesses from preventing cyber attacks, big data provided data management methods and threat detection however to upgrade this strategy reinforcement learning model played an important role. 
+
+#### 3.3 RL over other models 
+
+<br>
+
+* The neural network used for implementing classifier are simple and fast making them suitable for emerging network with high demands such as IOT.
+* The reinforcement learning architecture is suitable for distrubuted high performance computing environments for example tenserflow, google cloud, MATLAB etc.
+* The model allows simple parameter update in case of new data which allows real time learning. 
+* The reward function which drives  detection can be extremely flexible and doesn’t need to be differentiable. 
+ 
+ 
+
+ 
 
