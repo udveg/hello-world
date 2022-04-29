@@ -167,9 +167,16 @@
 
 <br>
 
-<pr>As this paper demonstrates how Big Data and RL together enhance Data Security and also provides a comprehensive idea about the advantages of RL over other models, how big data plays an important factor in machine learning models to aid cybersecurity and example of reinforcement learning and big data applied together (Intrusion Detection System). This clearly explains the potential of BigData, it is considered as the backbone for many fields, the same way it has been uplifting the cybersecurity field too.   </pr>
+<pr>As this paper demonstrates, how Big Data and RL together enhance Data Security, provides a comprehensive idea about the advantages of RL over other models, how big data plays an important factor in machine learning models to aid cybersecurity and example of reinforcement learning and big data applied together (Intrusion Detection System). This clearly explains the potential of BigData, it is considered as the backbone for many fields, the same way it has been uplifting the cybersecurity field too. Moreover, Reinforcement learning along with Big Data has escalated the cybersecurity.     </pr>
 
- 
+ <br>
 
- 
+ <pr>However, adversaries will utilize the capabilities of these technologies to develop increasingly clever, stealthy, and complicated attacks. Because there are no jurisdictional limits and it is impossible to follow an assault, opponents become more powerful. Big Data technologies must be aided by Machine Learning technology if they are to be properly exploited in the field of Cybersecurity. Organizations and processes may be maintained secure in the face of cybersecurity threats and breaches using Reinforcement Learning and Big Data.  </pr>
 
+<br>
+
+### 5. Sources
+
+<br>
+
+Here is a simple footnote [^1]: 
