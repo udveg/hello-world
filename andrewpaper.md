@@ -91,17 +91,17 @@
 
 ### 2. Role of Big Data in Cybersecurity
 <br>
-<p> As we discussed earlier about the Big Data Analytics in cyber defense, lets get a better understanding of how Big Data Analytics implement different models and techniques which aid Data Security. </p>
+<p> As we discussed earlier the Big Data Analytics in cyber defence, lets get a better understanding of how Big Data Analytics implement different models and techniques which aid Data Security. </p>
 
 #### 2.1 Predective Models and Big Data Analytics 
 
 <br>
 
-<p> We all understand the value of predictive models; in the case of cyber defense, the model attempts to identify the threat ahead of time so that countermeasures can be taken before the actual attack happens. Predictive models and Big Data analytics are not new; they have been used in Fraud Detection and Intrusion Detection for a long time. Traditionally, they were only used on structured data, and data usage was limited; however, with advances in machine learning, predictive models can now deploy large amounts of data and analyze them in real time. Let's have a look at some of the benefits of Big Data Analytics in the context of cybersecurity: <br> </p> 
+<p> We all understand the value of predictive models; in the case of cyber defence, the model attempts to identify the threat ahead of time so that countermeasures can be taken before the actual attack happens. Predictive models and Big Data analytics are not new; they have been used in Fraud Detection and Intrusion Detection for a long time. Traditionally, they were only used on structured data, and data usage was limited; however, with advances in machine learning, predictive models can now deploy large amounts of data and analyze them in real-time. Let's have a look at some of the benefits of Big Data Analytics in the context of cybersecurity: <br> </p> 
 
 * It can store a vast quantity of data without any relational database management limits, and these can be used in real-time machine learning models rather than keeping them on an external disk, which takes a long time and requires a lot of space. 
-* The amount of processing involved for decision making is not limited since they are expected to be intrusive the overhead time is minimized.
-* Traditional strategies focused on high TPS and short response time, which compelled models to deploy on a regular basis, delaying detection; however, with the help of Big Data tools, we were able to quickly overcome these issues.
+* The amount of processing involved in decision making is not limited since they are expected to be intrusive the overhead time is minimized.
+* Traditional strategies focused on high TPS and short response time, which compelled models to deploy regularly, delaying detection; however, with the help of Big Data tools, we were able to quickly overcome these issues.
 
 <br>
 
@@ -137,7 +137,7 @@
 #### 3.1  Intrusion Detection System 
 
 
-<p>Intrusion detection systems (IDS) is basically a technique where the netwok node and network is constantly tracked to flag any intrusions. IDS basically uses anomaly-based technique or signature-based technique. As I mentioned earlier Big data plays a huge role in signature-based technique."A user typically creates between 3 - 35 Megabytes of data in eight hours and it can take several hours to evaluate a single hour's worth of data," according to a research conducted by Frank for Intrusion Detection in 1994. Filtering, clustering, and feature selection on the data are also vital if real-time detection is sought, according to the researchers, which can boost detection accuracy. Big Data difficulties in intrusion detection existed long before the phrase "Big Data" was coined, as this case shows. Big Data approaches can help Intrusion Detection overcome the obstacles and costs that Big Data brings.  </p>
+<p>Intrusion detection systems (IDS) is basically a technique where the network node and network are constantly tracked to flag any intrusions. IDS basically uses an anomaly-based technique or signature-based technique an algorithm that uses deep reinforcement learning (DRL) and active learning to efficiently learn and adapt to anomalies in real-world time series data. As I mentioned earlier Big data plays a huge role in signature-based technique." A user typically creates between 3 - 35 Megabytes of data in eight hours and it can take several hours to evaluate a single hour's worth of data," according to a research conducted by Frank for Intrusion Detection in 1994. Filtering, clustering, and feature selection on the data are also vital if real-time detection is sought, according to the researchers, which can boost detection accuracy. Big Data difficulties in intrusion detection existed long before the phrase "Big Data" was coined, as this case shows. Big Data approaches can help Intrusion Detection overcome the obstacles and costs that Big Data brings. This explains the importance of Big Data in Intrusion detection systems.  </p>
 
 <br>
 
@@ -145,7 +145,7 @@
 
 <br>
 
-<p>The process starts with data sniffing where network traffic packets is collected, this is the part where big data plays an crucial role. Data usually contains some amount of discrepancies, Big data allows to collect all the information from networks, sensors and allows to send the information for data preprocessing where quality of data is controlled, data pre processing includes model training, the core of NIDS is reinforcement learning based anomaly detection enigine. Now big data and reinforcement learning wroks together, the model is designed in such a way that it learns automatically whenever new data is collected from network, the models learning depends on the amount of data being generated from network. As the amount of data increases the model achieves self-updating where model can self-learn the behavior of traffic.    </p>
+<p>As we have discussed about IDS, we will look at one of the popular approach that combines the Big Data and Reinforcement Learning for intrusion detection. The process starts with data sniffing where network traffic packets is collected, this is the part where big data plays an crucial role. Data usually contains some amount of discrepancies, Big data allows to collect all the information from networks, sensors and allows to send the information for data preprocessing where quality of data is controlled, data pre processing includes model training, the core of NIDS is reinforcement learning based anomaly detection enigine. Now big data and reinforcement learning works together, the model is designed in such a way that it learns automatically whenever new data is collected from network, the models learning depends on the amount of data being generated from network. As the amount of data increases the model achieves self-updating where model can self-learn the behavior of traffic.    </p>
 
 <br>
 
@@ -163,11 +163,11 @@
 
 <p>Intrusion detection systems may be upgraded with real-time data analytics, which will aid in the prevention of harmful acts on the systems. Businesses may now review prior data and real-time data to understand the behavior of what is typical data and avoid cyber assaults by merging BigData with machine learning. Many large companies are enhancing data security and this infrastructure allows a more subtle approach considered to other traditional methods. Machine Learning along with Big Data assured businesses from preventing cyber attacks, big data provided data management methods and threat detection however to upgrade this strategy reinforcement learning model played an important role.</p> 
 
-### Conclusion  
+### 4.Conclusion  
 
 <br>
 
-<pr>As this paper demonstrates how BigData and RL together enhances Datasecurity and also provides comprehensive idea about the advantages of RL over other models, how bigdata plays an important factor in machine learning models to aid cybersecurity and example of reinforcement learning and big data applied together (Intrusion Detection System). This clearly explains the potential of BigData, it is considered as backbone for many fields, the same way it has been uplifting the cybersecurity field too.   </pr>
+<pr>As this paper demonstrates how Big Data and RL together enhance Data Security and also provides a comprehensive idea about the advantages of RL over other models, how big data plays an important factor in machine learning models to aid cybersecurity and example of reinforcement learning and big data applied together (Intrusion Detection System). This clearly explains the potential of BigData, it is considered as the backbone for many fields, the same way it has been uplifting the cybersecurity field too.   </pr>
 
  
 
