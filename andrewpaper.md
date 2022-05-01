@@ -147,6 +147,14 @@ Reinforcement learning is not a type of neural network, nor is it an alternative
 
 <br>
 
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/89949851/166155126-8733be1b-2477-4965-9846-93acb7e2b33b.png">
+</p>
+
+<p align="center">
+<b>Fig.3  Typical intrusion detection system for IoT environment. IDS, intrusion detection system.</b> 
+</p>
+
 #### 3.1 Network Intrusion Detection System (NIDS)
 
 <br>
@@ -163,7 +171,7 @@ Reinforcement learning is not a type of neural network, nor is it an alternative
 <img width="507" alt="Screen Shot 2022-04-25 at 2 49 42 PM" src="https://user-images.githubusercontent.com/89949851/165154524-aa37896e-d26f-4740-bb00-61b57f0211a3.png">
 </p>
 
-##### Fig.3 This is the global architecture for security monitoring system, here we can observe the role of Big Data and ML together, the data is constantly being uploaded into the database and then the data is further analyzed where insights are extracted and used for intrusion detection. [^5]
+##### Fig.4 This is the global architecture for security monitoring system, here we can observe the role of Big Data and ML together, the data is constantly being uploaded into the database and then the data is further analyzed where insights are extracted and used for intrusion detection. [^5]
 
 <br>
 
@@ -181,7 +189,7 @@ Reinforcement learning is not a type of neural network, nor is it an alternative
 
 <br>
 
-### 5. Sources
+### 5. References
 
 <br>
 
@@ -190,8 +198,10 @@ Reinforcement learning is not a type of neural network, nor is it an alternative
 3. Image Source 1 [^3]
 4. Image Source 2 [^4]
 5. Image Source 3 [^5]
+6. Image Source 4 [^6]
 [^1]: https://downloads.cloudsecurityalliance.org/initiatives/bdwg/Big_Data_Analytics_for_Security_Intelligence.pdf
 [^2]: https://www.nsa.gov/portals/75/documents/resources/everyone/digital-media-center/publications/the-next-wave/TNW-22-1.pdf
 [^3]: https://www.kdnuggets.com/2019/10/mathworks-reinforcement-learning.html
 [^4]: https://www.nsa.gov/portals/75/documents/resources/everyone/digital-media-center/publications/the-next-wave/TNW-22-1.pdf
-[^5]: https://www.researchgate.net/figure/Large-scale-security-monitoring-architecture_fig1_283137392
+[^5]: https://www.semanticscholar.org/paper/A-Deep-Reinforcement-Learning-Approach-for-Anomaly-Hsu-Matsuoka/fdd472423f1736963c33d4cd6c2658a641ab2e90
+[^6]: https://www.researchgate.net/figure/Large-scale-security-monitoring-architecture_fig1_283137392
