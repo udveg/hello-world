@@ -30,21 +30,21 @@ Upon completion, students will:
 
 | **Date** | **Topic** |
 | --- | --- |
-| **Week 1<br/>2022-02-03** | - Big Data and Distributed Computing Introduction |
-| **Week 2<br/>2022-02-10** |- Distributed File Systems and File Formats<br/>- Distributed Databases: HBase/Accumulo, Cassandra |
-| **Week 3<br/>2022-02-17** |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing |
-| **Week 4<br/>2022-02-24** |- Introduction to Apache Spark<br/>- Spark Resilient Distributed Dataset (RDD), Data Frame<br/> |
-| **Week 5<br/>2022-03-03** |- Spark Structured API Part 1 |
-| **Week 6<br/>2022-03-10** |- Spark Structured API Part 2 |
-| **Week 7<br/>2022-03-17** |- Structured Streaming Part 1 |
-| **Week 8<br/>2022-03-24** |- Structured Streaming Part 2 |
-| **Week 9<br/>2022-03-31** |- No Class – Spring Break |
-| **Week 10<br/>2022-04-07** |- Advanced Analytics Part 1 |
-| **Week 11<br/>2022-04-14** |- Advanced Analytics Part 2<br/>- _Project progress report_ |
-| **Week 12<br/>2022-04-21** |- Graph Processing |
-| **Week 13<br/>2022-04-28** |- _Technical paper due_<br/>- Monitoring, Debugging, Performance Tuning |
-| **Week 14<br/>2022-05-05** |- Project Presentations 1 |
-| **Week 15<br/>2022-05-12** |- _Project presentation due_<br/>- Project Presentations 2 |
+| **Week 1<br/>2025-01-10** | - Scalars |
+| **Week 2<br/>2025-02-12** |- Distributed File Systems and File Formats<br/>- Distributed Databases: HBase/Accumulo, Cassandra |
+| **Week 3<br/>2025-02-17** |- Descriptive Statistics<br/>- Introduction to Cloud Computing |
+| **Week 4<br/>2025-02-24** |- Introduction to Apache Spark<br/>- Spark Resilient Distributed Dataset (RDD), Data Frame<br/> |
+| **Week 5<br/>2025-03-03** |- Vectors |
+| **Week 6<br/>2025-03-10** |- Correlation |
+| **Week 7<br/>2025-03-17** |- Random Variables |
+| **Week 8<br/>2025-03-24** |- Probability Density Function(PDF) |
+| **Week 9<br/>2025-03-31** |- CDF of PDF |
+| **Week 10<br/>2025-04-07** |- Multinomial Distribution |
+| **Week 11<br/>2025-04-14** |- Transformations<br/>- _Project progress report_ |
+| **Week 12<br/>2025-04-21** |- Graph Processing |
+| **Week 13<br/>2025-04-28** |- _Technical paper due_<br/>- Monitoring, Debugging, Performance Tuning |
+| **Week 14<br/>2025-05-05** |- Project Presentations 1 |
+| **Week 15<br/>2025-05-12** |- Normal Distribution<br/>- Project Presentations 2 |
 
 # Materials
 
